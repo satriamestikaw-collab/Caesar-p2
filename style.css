@@ -1,0 +1,57 @@
+body {
+  background-color: #121212;
+}
+h1, h2 {
+  text-align: center;
+  color: black;
+}
+.first {
+  border-style: solid;
+  border-radius: 15px;
+  border-color: #1E1E1E;
+  background-color: black;
+  color: white;
+}
+.p1 {
+  border-style: solid;
+  border-radius: 15px;
+  background-color: #1E1E1E;
+  padding: 5px;
+  color: white;
+  border-color: #F2C94C;
+}
+.enc {
+  background-color: #1E1E1E;
+  color: #F2C94C;
+  border-color: #F2C94C;
+}
+.enc:hover {
+  background-color: #F2C94C;
+  color: #000000;
+  border-color: #F2C94C;
+}
+.link {
+  color: #F2C94C;
+  text-decoration: underline;
+}
+.link:hover {
+    color: #FFE27A;
+}
+/* encryptor */
+.encryptor {
+  background-color: #3399FF;
+}
+.head {
+  border-style: solid;
+  border-color: black;
+  background-color: #0000ff;
+  border-radius: 15px;
+}
+.encinput {
+  border-style: solid;
+  border-color: black;
+  border-radius: 15px;
+  color: white;
+  background-color: ;
+  padding: 5px;
+}
