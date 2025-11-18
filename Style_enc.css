@@ -1,0 +1,47 @@
+.encryptor {
+  background-color: #121212;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+.head {
+  background-color: #1E1E1E;
+    color: white;
+    padding: 20px;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    border: 3px solid #F2C94C;
+    border-radius: 20px;
+}
+.encinput {
+    background-color: #1E1E1E;
+    color: white;
+    border: 2px solid #F2C94C;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+}
+.encinput:hover {
+  color: #cccccc;
+}
+.button {
+  background-color: #1E1E1E;
+    color: #F2C94C;
+    border: 2px solid #F2C94C;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.button:hover {
+  background-color: #F2C94C;
+  color: #000000;
+}
+.link {
+  color: #F2C94C;
+  text-decoration: underline;
+  font-size: 18px;
+}
+.link:hover {
+  color: #FFE27A;
+}
