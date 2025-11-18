@@ -33,9 +33,11 @@ h1, h2 {
 .link {
   color: #F2C94C;
   text-decoration: underline;
+  margin: 5px;
 }
 .link:hover {
-    color: #FFE27A;
+  color: #FFE27A;
+  margin: 10px;
 }
 /* encryptor */
 .encryptor {
